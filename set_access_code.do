@@ -1,1 +1,1 @@
-set_access_code -code ${{ secrets.TS_TAPLINK_AC }}
+set_access_code -code MrUFjpS51CqfCZRPD20PJyRpco/SKQnq7QxUI6PMFhQSHSSubAy74g==
